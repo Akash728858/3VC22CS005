@@ -1,1 +1,6 @@
-# 3VC22CS005
+#include<stdio.h>
+void main()
+{
+  printf("program");
+  getch();
+}
